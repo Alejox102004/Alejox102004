@@ -14,7 +14,6 @@
   <li>👯 Buscando colaborar en [tipo de proyectos].</li>
   <li>💬 Pregúntame sobre [temas en los que puedes ayudar].</li>
   <li>📫 Cómo contactarme: <a href="mailto:Alejandromallama11@gmail.com">Alejandromallama11@gmail.com</a> o <a href="[URL de LinkedIn]">LinkedIn</a>.</li>
-  <li>⚡ Dato curioso: [algún hecho divertido sobre ti].</li>
 </ul>
 
 <hr>
@@ -45,8 +44,6 @@
 <h2>Conéctate Conmigo</h2>
 
 <ul>
-  <li><a href="[URL de LinkedIn]">LinkedIn</a></li>
-  <li><a href="[URL de Twitter]">Twitter</a></li>
   <li><a href="mailto:Alejandromallama11@gmail.com">Correo Electrónico</a></li>
 </ul>
 
