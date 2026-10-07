@@ -51,7 +51,7 @@ YAML_ROWS = [
     (1, "devops", "Docker · Git · GitHub Actions"),
     (1, "tools", "Linux · TailwindCSS · REST APIs"),
     (0, "contact", ""),
-    (1, "linkedin", "/in/alejandro-mallama"),
+    (1, "linkedin", "/in/alejandro-mallama-107802331"),
     (1, "github", "Alejox102004"),
     (1, "timezone", "UTC-5 · Ecuador"),
 ]
