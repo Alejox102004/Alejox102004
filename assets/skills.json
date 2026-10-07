@@ -1,0 +1,30 @@
+{
+  "title": "Full Stack Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    {
+      "label": "Frontend (Astro/React)",
+      "value": 92
+    },
+    {
+      "label": "Backend (PHP/Node.js)",
+      "value": 90
+    },
+    {
+      "label": "Databases (SQL/NoSQL)",
+      "value": 85
+    },
+    {
+      "label": "DevOps & Docker",
+      "value": 82
+    },
+    {
+      "label": "Cloud & CI/CD",
+      "value": 80
+    },
+    {
+      "label": "REST APIs & Architecture",
+      "value": 88
+    }
+  ]
+}

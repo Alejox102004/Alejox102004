@@ -1,0 +1,26 @@
+{
+  "title": "Language & Stack Radar",
+  "_comment": "Values 0-100. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    {
+      "label": "JavaScript/TS",
+      "value": 92
+    },
+    {
+      "label": "PHP",
+      "value": 90
+    },
+    {
+      "label": "Python",
+      "value": 85
+    },
+    {
+      "label": "HTML/CSS/Astro",
+      "value": 94
+    },
+    {
+      "label": "SQL",
+      "value": 85
+    }
+  ]
+}

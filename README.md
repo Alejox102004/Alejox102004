@@ -1,19 +1,21 @@
 <div align="center">
 
-<!-- NEON CYBERPUNK BANNER -->
+<!-- LOCAL CITY-POP BANNER -->
 <a href="https://github.com/Alejox102004">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=00FFFF&center=true&vCenter=true&width=960&lines=Alejandro+Mallama+%E2%80%94+Full+Stack+Developer;React+%7C+Node.js+%7C+Flutter+%7C+Next.js;Python+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Cloud;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Animated banner - Alejandro Mallama Full Stack Developer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil Full Stack de Alejandro Mallama">
+  </picture>
 </a>
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Alejox102004&style=flat-square&color=00ffff&label=profile+views" alt="profile views">
-&nbsp;
-<a href="https://linkedin.com/in/alejandro-mallama">
-  <img src="https://img.shields.io/badge/LinkedIn-alejandro--mallama-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d1a&color=00ffff" alt="LinkedIn">
+<a href="https://github.com/Alejox102004">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Alejandro+Mallama+%E2%80%94+Full+Stack+Developer%3BAstro+%7C+React+%7C+Next.js+%7C+TypeScript%3BPHP+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+SQL%3BCrear+-+Construir+-+Escalar+-+Innovar" alt="Banner animado con perfil Full Stack">
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&labelColor=0d0d1a&color=39ff14" alt="Open to Work">
+
+<img src="https://komarev.com/ghpvc/?username=Alejox102004&style=flat&color=f78ca0&label=profile+views" alt="profile views">
 
 </div>
 
@@ -22,7 +24,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-cyberpunk.svg" width="960" alt="Vim-style profile editor - Alejandro Mallama, Full Stack Developer">
+  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de Alejandro Mallama, Full Stack Developer">
 </p>
 
 <br>
@@ -31,92 +33,94 @@
 
 ## `$ cat tech-stack.yaml`
 
-<table border="1" cellpadding="14" bgcolor="#0d0d1a">
+<table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>alejandro@mallama:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code>Alejox102004:~$ cat tech-stack.yaml</code></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top"><code>├─ 🌐 frontend:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,flutter,html,css" alt="React, Next.js, Astro, TypeScript, JavaScript, Flutter, HTML, CSS"><br>
-        <sub><code>React · Next.js · Astro · TypeScript · Flutter</code></sub>
+      <td width="50%" valign="top"><code>├─ 🎨 frontend_development:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=astro,react,nextjs,typescript,javascript,tailwind,html,css" alt="Astro, React, Next.js, TypeScript, JavaScript, Tailwind, HTML, CSS"><br>
+        <sub><code>Astro · React · Next.js · TypeScript · JavaScript · TailwindCSS</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ ⚙ backend:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,python,php,express,fastapi" alt="Node.js, Python, PHP, Express, FastAPI"><br>
-        <sub><code>Node.js · Python · PHP · Express · FastAPI</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top"><code>├─ 🗄 databases:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="PostgreSQL, MySQL, MongoDB, Firebase"><br>
-        <sub><code>PostgreSQL · MySQL · MongoDB · Firebase</code></sub>
-      </td>
-      <td width="50%" valign="top"><code>├─ ☁ cloud_devops:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,gcp" alt="AWS, Azure, Docker, Kubernetes, GCP"><br>
-        <sub><code>AWS · Azure · GCP · Docker · Kubernetes</code></sub>
+      <td width="50%" valign="top"><code>├─ ⚙ backend_services:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=php,nodejs,express,python,fastapi" alt="PHP, Node.js, Express, Python, FastAPI"><br>
+        <sub><code>PHP · Node.js · Express · Python · FastAPI</code></sub>
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top"><code>└─ 🛠 tools:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" alt="Git, GitHub, VSCode, Linux, Postman"><br>
-        <sub><code>Git · GitHub · VSCode · Linux · Postman</code></sub>
+      <td valign="top"><code>├─ ▣ databases_storage:</code><br><br>
+        <img src="assets/icon-amazon-rds.svg" height="48" alt="Amazon RDS">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="PostgreSQL, MySQL, MongoDB, Redis"><br>
+        <sub><code>PostgreSQL · MySQL · MongoDB · Redis · Amazon RDS</code></sub>
       </td>
-      <td width="50%" valign="top"><code>└─ 📐 design:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=figma,tailwind" alt="Figma, Tailwind"><br>
-        <sub><code>Figma · Tailwind CSS</code></sub>
+      <td valign="top"><code>├─ ☁ cloud_devops:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,git,githubactions,aws,linux,bash" alt="Docker, Git, GitHub Actions, AWS, Linux, Bash"><br>
+        <sub><code>Docker · Git · GitHub Actions · AWS · Linux · Bash</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ◉ monitoring_quality:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=sentry,postman" alt="Sentry, Postman">
+        <img src="assets/icon-sonarqube.svg" height="48" alt="SonarQube">
+        <img src="assets/icon-amazon-cloudwatch.svg" height="48" alt="Amazon CloudWatch"><br>
+        <sub><code>Sentry · SonarQube · Postman · Amazon CloudWatch</code></sub>
+      </td>
+      <td valign="top"><code>╰─ ⌁ tooling_ecosystem:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=vscode,npm,vite,figma,github" alt="VSCode, NPM, Vite, Figma, GitHub"><br>
+        <sub><code>VS Code · Vite · NPM · Figma · GitHub</code></sub>
       </td>
     </tr>
   </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production</code></td>
+    </tr>
+  </tfoot>
 </table>
 
 </div>
 
-<br>
+---
+
+## `$ kubectl get signals --all-namespaces`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="390" alt="Radar de habilidades Full Stack">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-light.svg" width="370" alt="Radar de lenguajes y tecnologías">
+  </picture>
+</p>
+
+<p align="center"><sub><code>signals: fullstack_skill_radar · language_stack_radar · status: healthy</code></sub></p>
 
 ---
 
+<!-- SOCIALS -->
+## `$ connect --socials`
+
 <div align="center">
 
-## `$ git log --stats`
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alejox102004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d0d1a&title_color=00ffff&icon_color=bf00ff&text_color=c9d1d9&border_color=00ffff" alt="GitHub Stats" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejox102004&layout=compact&theme=tokyonight&bg_color=0d0d1a&title_color=00ffff&text_color=c9d1d9&border_color=00ffff" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejox102004&theme=tokyonight&background=0d0d1a&ring=00ffff&fire=bf00ff&currStreakLabel=00ffff&border=00ffff" alt="GitHub Streak" />
+<a href="https://www.linkedin.com/in/alejandro-mallama">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Alejox102004">
+  <img src="https://img.shields.io/badge/GitHub-f78ca0?style=for-the-badge&logo=github&logoColor=1a1a2e" alt="GitHub">
+</a>
 
 </div>
 
 <br>
-
----
-
-<div align="center">
-
-## `$ ping alejandro`
-
-> *"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
-
 <br>
 
-<a href="https://linkedin.com/in/alejandro-mallama">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a&color=00ffff" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://github.com/AlejandroMallama">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a&color=bf00ff" alt="GitHub">
-</a>
-
-<br/><br/>
-
-```
-  ╔══════════════════════════════════════════════╗
-  ║   Thanks for visiting! Let's build something ║
-  ║   amazing together  🚀  ~/Alejox102004       ║
-  ╚══════════════════════════════════════════════╝
-```
-
+<div align="center">
+<sub>Hecho con 💖 y mucho café desde Colombia · @Alejox102004</sub>
 </div>
