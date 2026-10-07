@@ -28,7 +28,7 @@
 
   <path d="M48 166H604" stroke="#343441"/>
   <text x="48" y="196" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">context:</text>
-  <text x="166" y="196" fill="#c7a4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Colombia  🇨🇴</text>
+  <text x="166" y="196" fill="#c7a4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Ecuador · EC  🇪🇨</text>
   <text x="48" y="225" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">mission:</text>
   <text x="166" y="225" fill="#9de4d1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">construir aplicaciones web rápidas y escalables</text>
 

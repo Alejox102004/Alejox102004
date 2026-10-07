@@ -122,5 +122,5 @@
 <br>
 
 <div align="center">
-<sub>Hecho con 💖 y mucho café desde Colombia · @Alejox102004</sub>
+<sub>Hecho con 💖 y mucho café desde Ecuador · @Alejox102004</sub>
 </div>
