@@ -3,9 +3,9 @@
 <!-- LOCAL CITY-POP BANNER -->
 <a href="https://github.com/Alejox102004">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil Full Stack de Alejandro Mallama">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-light.svg" width="960" alt="Perfil Full Stack de Alejandro Mallama">
   </picture>
 </a>
 
